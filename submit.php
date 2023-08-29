@@ -1,4 +1,4 @@
 
 <?php
- echo "hello, welcome to my page, do you like what you see";
+ echo "hello, welcome to my page, how may i be of help to you";
 ?>
